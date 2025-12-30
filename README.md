@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=👋+Nice+to+meet+you!;💻+I'm+Minh+Phuc+(Apollous)+-+Frontend+Developer;🚀+I'm+glad+to+see+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Nilernous;I%27m+a+Frontend+Developer;Working+with+React%2C+Next.js+and+modern+UI+stacks)](https://git.io/typing-svg)
 
 ## 🧰 Tech Stack
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhphuc3589&show_icons=true&theme=radical" alt="Myself stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilernous&show_icons=true&theme=radical" alt="Myself stats" />
 </p>
 
 ## 🌐 Connect with me
@@ -28,4 +28,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhphuc3589&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-✨ *Thanks for visiting my profile!* ✨
+I am seeking an opportunity as a **Frontend Developer** where I can contribute to real products, collaborate with a professional team, and continue growing as an engineer.
