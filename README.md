@@ -30,4 +30,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhphuc3589&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
-I am seeking an opportunity as a **Frontend Developer** where I can contribute to real products, collaborate with a professional team, and continue growing as an engineer.
+## 🚀 Career Objective
+I am always seeking opportunities to work on real-world projects. My long-term goal is to become a **Fullstack Developer**, and I continuously explore and learn new technologies to grow into a well-rounded software engineer.
