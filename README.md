@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilernous&show_icons=true&theme=radical" alt="Myself stats" />
-</p>
-
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/phuc-truong-2767282a5/">
@@ -25,9 +20,6 @@
   <a href="https://facebook.com/minh.phuc1605">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhphuc3589&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ## 🚀 Career Objective
