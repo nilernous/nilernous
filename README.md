@@ -41,5 +41,5 @@
 
 ##
 <p align="center">
-  <img src="./code-and-fix.gif.gif" />
+  <img src="./code-and-fix.gif" />
 </p>
