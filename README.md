@@ -4,6 +4,12 @@
 
 <br />
 
+<p align="center">
+  <img src="https://lottie.host/embed/0f80f5b3-b007-4a80-980d-df70d5f6d1fc/ySB3oNWPEa.lottie" />
+</p>
+
+<br />
+
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -27,8 +33,6 @@
 </p>
 
 <br />
-
-![Views](https://komarev.com/ghpvc/?username=nilernous&color=blue&style=flat-square)
 
 ## My contribution
 ![3D Contrib](./profile-3d-contrib/profile-night-green.svg)
