@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img src="https://lottie.host/embed/0f80f5b3-b007-4a80-980d-df70d5f6d1fc/ySB3oNWPEa.lottie" />
+  <img src="./code-and-fix.gif" width="400" />
 </p>
 
 <br />
