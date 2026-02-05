@@ -28,5 +28,7 @@
 
 <br />
 
+![Views](https://komarev.com/ghpvc/?username=nilernous&color=blue&style=flat-square)
+
 ## My contribution
 ![3D Contrib](./profile-3d-contrib/profile-night-green.svg)
