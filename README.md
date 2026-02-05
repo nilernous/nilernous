@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Nilernous;I%27m+a+Frontend+Developer;Working+with+React%2C+Next.js+and+modern+UI+stacks" />
 </p>
 
-![Metrics](https://raw.githubusercontent.com/nilernous/nilernous/main/github-metrics.svg)
+![3D Contrib](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🧰 Tech Stack
 <p align="center">
