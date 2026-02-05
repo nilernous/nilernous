@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  <img src="./code-and-fix.gif" width="400" />
+  <img src="./code-and-fix.gif" width="200" />
 </p>
 
 <br />
