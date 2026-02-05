@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Nilernous;I%27m+a+Frontend+Developer;Working+with+React%2C+Next.js+and+modern+UI+stacks" />
 </p>
 
+![Metrics](https://github.com/your-username/your-username/releases/download/latest/github-metrics.svg)
+
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
