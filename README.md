@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I%27m+Nilernous;I%27m+a+Frontend+Developer;Working+with+React%2C+Next.js+and+modern+UI+stacks" />
 </p>
 
+<br />
+
 ## 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,6 +13,8 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
+<br />
 
 ## 🌐 Connect with me
 <p align="center">
@@ -22,4 +26,7 @@
   </a>
 </p>
 
+<br />
+
+## My contribution
 ![3D Contrib](./profile-3d-contrib/profile-night-green.svg)
