@@ -5,12 +5,11 @@
 <br />
 
 <p align="center">
-  <img src="./code-and-fix.gif" width="200" />
 </p>
 
 <br />
 
-## 🧰 Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -22,7 +21,7 @@
 
 <br />
 
-## 🌐 Connect with me
+## Connect with me
 <p align="center">
   <a href="https://linkedin.com/in/phuc-truong-2767282a5/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -36,3 +35,11 @@
 
 ## My contribution
 ![3D Contrib](./profile-3d-contrib/profile-night-green.svg)
+
+<br />
+
+## State
+
+<p align="center">
+  <img src="./error-404.gif" />
+</p>
