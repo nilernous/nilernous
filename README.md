@@ -41,5 +41,5 @@
 
 ##
 <p align="center">
-  <img src="./error-404.gif" />
+  <img src="./code-and-fix.gif.gif" />
 </p>
